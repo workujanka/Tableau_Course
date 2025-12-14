@@ -1,6 +1,7 @@
 # Salary Data Visualization Project (Tableau)
 
-This repository contains a series of Tableau dashboards created as part of my personal learning journey during the course **Data Visualization and Communication with Tableau**, offered by Duke University via Coursera.
+This repository contains a series of Tableau dashboards created as part of my personal learning journey during the course: 
+**Data Visualization and Communication with Tableau**, offered by Duke University via Coursera.
 
 ## Project Purpose
 
