@@ -26,13 +26,12 @@ Here’s a summary of the key topics and steps involved in drawing charts:
 - Explore additional features and options in Tableau to enhance your analysis and visualizations.
 
 ---
-# Result
+# Result and Analysis
  <p align="center">
   <img src="Charts/Job_Title_Vs_Median_Paid_Wage_Per_Year.png" width="600" height="600"/>
 </p>
 
 
-# Chart Result and Analysis
 The above bar chart compares median annual wages across eight job titles. The data reveals clear wage disparities:
 
 Attorneys earn the highest median wage, followed by data scientists, management consultants, and software engineers.
@@ -42,3 +41,12 @@ Teachers have the lowest median wage among the listed roles.
 The wage gap between top-earning and lower-earning professions exceeds $100,000, highlighting significant differences in compensation across industries.
 
 This visualization helps users quickly identify which professions offer higher financial returns and may inform career planning or labor market analysis.
+
+
+
+  ## INDEX
+
+  ### Screenshot From The Project's Tableau Dashboard
+<p align="center">
+  <img src="Charts/Job_Title_Vs_Median_Paid_Wage_Per_Year(2008_2015).png" width="110%" height="110%">
+</p>
